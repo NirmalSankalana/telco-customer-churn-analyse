@@ -29,7 +29,7 @@ customer_id,Churn
 3349,No
 3350,Yes
 3351,No
-3352,Yes
+3352,No
 3353,No
 3354,No
 3355,Yes
@@ -82,7 +82,7 @@ customer_id,Churn
 3402,No
 3403,No
 3404,Yes
-3405,No
+3405,Yes
 3406,No
 3407,No
 3408,No
@@ -181,7 +181,7 @@ customer_id,Churn
 3501,No
 3502,No
 3503,No
-3504,No
+3504,Yes
 3505,No
 3506,No
 3507,No
@@ -307,7 +307,7 @@ customer_id,Churn
 3627,No
 3628,No
 3629,No
-3630,Yes
+3630,No
 3631,No
 3632,No
 3633,No
@@ -346,7 +346,7 @@ customer_id,Churn
 3666,Yes
 3667,Yes
 3668,No
-3669,No
+3669,Yes
 3670,Yes
 3671,Yes
 3672,Yes
@@ -432,7 +432,7 @@ customer_id,Churn
 3752,No
 3753,Yes
 3754,No
-3755,Yes
+3755,No
 3756,Yes
 3757,No
 3758,No
@@ -551,7 +551,7 @@ customer_id,Churn
 3871,No
 3872,No
 3873,No
-3874,No
+3874,Yes
 3875,No
 3876,No
 3877,No
@@ -706,7 +706,7 @@ customer_id,Churn
 4026,Yes
 4027,Yes
 4028,Yes
-4029,No
+4029,Yes
 4030,No
 4031,No
 4032,No
@@ -756,10 +756,10 @@ customer_id,Churn
 4076,No
 4077,Yes
 4078,Yes
-4079,No
+4079,Yes
 4080,Yes
 4081,Yes
-4082,No
+4082,Yes
 4083,Yes
 4084,Yes
 4085,No
@@ -863,7 +863,7 @@ customer_id,Churn
 4183,Yes
 4184,No
 4185,No
-4186,No
+4186,Yes
 4187,No
 4188,Yes
 4189,No
@@ -1314,15 +1314,15 @@ customer_id,Churn
 4634,Yes
 4635,No
 4636,No
-4637,No
+4637,Yes
 4638,Yes
-4639,No
+4639,Yes
 4640,No
 4641,No
 4642,No
 4643,No
 4644,No
-4645,No
+4645,Yes
 4646,No
 4647,No
 4648,No
@@ -1330,7 +1330,7 @@ customer_id,Churn
 4650,No
 4651,Yes
 4652,No
-4653,No
+4653,Yes
 4654,No
 4655,No
 4656,No
